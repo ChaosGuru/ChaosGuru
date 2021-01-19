@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello, World
+
+I am the traveler that explores the world of programming.
+
+Currently I am interested in deep seas of web, especially sea currents django and flask. Of course I have prepared for future vojage by learning python. And it is not a snack.
+
+My ship is named git, if something will happen to it, nothing will happen to it.
+
+Next page of my journay.... to be continue....
 
 <!--
 **ChaosGuru/ChaosGuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
